@@ -1,0 +1,13 @@
+body {
+  background-color: #eee;
+  text-align: center;
+  margin: 0; padding: 0;
+}
+
+.drop-zone {
+  border: 1px solid #fffeee;
+  background-color: #fff;
+  width: 100vw;
+  height: 150vh;
+  margin: 0 auto;
+}
